@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+
+# Local OpenCode state and generated research artifacts
+.opencode/
+docs/intermediate/
+docs/decisions/
+docs/reports/
+docs/deep-research/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
