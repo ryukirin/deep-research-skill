@@ -2,8 +2,7 @@
 .env.*
 !.env.example
 
-# Local OpenCode state and generated research artifacts
-.opencode/
+# Generated research artifacts
 docs/intermediate/
 docs/decisions/
 docs/reports/
